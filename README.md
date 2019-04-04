@@ -1,2 +1,2 @@
 # Opencv
-Opencv to learn with Python
+Opencv with Python
